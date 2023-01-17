@@ -1,0 +1,39 @@
+* {
+    text-align: center;
+    color: crimson;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    border: 3px solid rebeccapurple;
+    padding: 10px;
+    margin: 30px;
+    color: violet;
+    width: 350px;
+}
+
+h1 {
+    border: 3px solid red;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: darkblue;
+
+}
+h2 {
+    font-weight: 200
+    
+    
+}
+
+section {
+    width: 400px;
+    border: 15px solid green;
+    padding: 15px;
+    margin: 20px;
+}
